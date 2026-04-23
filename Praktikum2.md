@@ -2,7 +2,7 @@ Aufgabe1 : docker ps, docker start <Containername>, docker exec -it <Containerna
 -Erstellen Sie jeweils eine Abfrage, um die Tupel(Zeilen) der Tabelle Movies anzuzeigen
 Mit *\dt* schauen welche Tabellen es gibt und dann:
 **SELECT * FROM movies**    <--Projektion
-
+movies ->Fachbegriff Relation
 Aufgabe2 :
 
 Erstellen Sie eine Abfrage, um jeweils Titel, Erscheinungsdatum und Genre_ID aller Filme anzuzeigen, wobei die Ausgabe nach Titel sortiert sein soll
