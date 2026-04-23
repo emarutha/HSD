@@ -1,7 +1,7 @@
 Aufgabe1 : docker ps, docker start <Containername>, docker exec -it <Containername> bash, psql -U postgres
 -Erstellen Sie jeweils eine Abfrage, um die Tupel(Zeilen) der Tabelle Movies anzuzeigen
 Mit *\dt* schauen welche Tabellen es gibt und dann:
-**SELECT * FROM movies**
+**SELECT * FROM movies**    <--Projektion
 
 Aufgabe2 :
 
